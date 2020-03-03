@@ -10,4 +10,4 @@ FFT power values extracted for three frequency bands (theta, alpha, beta). Featu
 3 dimensional coordinates for electrodes on Neuroscan quik-cap.
 
 trials_subNums:
-contains subject numbers associated with each trial (used for leave-subject-out cross validation).
+contains subject numbers associated with each trial (used for leave-subject-out cross validation).-
